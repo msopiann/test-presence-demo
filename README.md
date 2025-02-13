@@ -39,12 +39,12 @@ CREATE TABLE attendance_records (
 
 Index Page
 
-![Index Logic](assets\images\index_logic.png)
+![Index Logic](assets/images/index_logic.png)
 
 Verify Page
 
-![Verify Logic](assets\images\verify_logic.png)
+![Verify Logic](assets/images/verify_logic.png)
 
 ### Success Scenario
 
-![Success Scenario](assets\video\success_scenario.gif)
+![Success Scenario](assets/video/success_scenario.gif)
